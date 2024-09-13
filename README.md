@@ -7,6 +7,7 @@ This repository contains a basic CRUD (Create, Read, Update, Delete) application
 #### Clone the repository:
 
 git clone [YOUR_REPOSITORY_URL]
+
 cd [YOUR_REPOSITORY_NAME]
 
 ## Install dependencies:
