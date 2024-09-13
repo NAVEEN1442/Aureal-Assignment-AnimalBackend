@@ -9,7 +9,7 @@ This repository contains a basic CRUD (Create, Read, Update, Delete) application
 git clone [YOUR_REPOSITORY_URL]
 cd [YOUR_REPOSITORY_NAME]
 
-##bInstall dependencies:
+## Install dependencies:
 
 npm install
 ## Setup environment variables:
